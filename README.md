@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **carolinkristina/carolinkristina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hi There
+
+<h2 align="center">Languages-Frameworks-Tools</h2>
+<br/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,nodejs,express,typescript" /><br>
+  <img src="https://skillicons.dev/icons?i=git,figma,mongodb,mysql,postgresql" /><br>
+</div>
+
+<hr/>
+
+<h2 align="center">Stats</h2>
+<br/>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=carolinkristina&theme=react&hide_border=true" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=carolinkristina&theme=react&show_icons=true&hide_border=true&count_private=true" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinkristina&theme=react&show_icons=true&hide_border=true&layout=compact" alt="top langs" />
+</div>
