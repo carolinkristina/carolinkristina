@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 <h2 align="center">Stats</h2>
 <br/>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=carolinkristina&theme=react&hide_border=true" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=carolinkristina&theme=react&show_icons=true&hide_border=true&count_private=true" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=carolinkristina&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=carolinkristina&theme=dark&hide_border=true" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinkristina&theme=react&show_icons=true&hide_border=true&layout=compact" alt="top langs" />
+  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinkristina&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="top langs" />
 </div>
